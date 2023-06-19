@@ -7,6 +7,7 @@ setup(
     description='My first Python library',
     author='Me',
     license='MIT',
+    url='https://github.com/avliu-um/scraper_util',
     install_requires=['beautifulsoup4', 'urllib3'],
     setup_requires=['pytest-runner'],
     tests_require=['pytest==4.4.1'],
