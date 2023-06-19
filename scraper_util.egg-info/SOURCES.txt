@@ -1,0 +1,11 @@
+README.md
+setup.py
+scraper_util/__init__.py
+scraper_util/myfunctions.py
+scraper_util.egg-info/PKG-INFO
+scraper_util.egg-info/SOURCES.txt
+scraper_util.egg-info/dependency_links.txt
+scraper_util.egg-info/requires.txt
+scraper_util.egg-info/top_level.txt
+tests/__init__.py
+tests/test_myfunctions.py
